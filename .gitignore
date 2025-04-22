@@ -1,0 +1,17 @@
+# Virtual environments
+2f/
+venv/
+
+# Bytecode and cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# ML model + logs
+*.pkl
+*.log
+
+# IDE and OS files
+.vscode/
+.idea/
+.DS_Store
